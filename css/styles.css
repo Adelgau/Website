@@ -62,7 +62,7 @@ p {
   margin-inline-end: 0px;
 }
 
-span.wr {
+.wr {
     color: #c0392b;
     font-weight: 600;
     text-decoration: underline;
