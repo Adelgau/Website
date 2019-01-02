@@ -126,3 +126,8 @@ hr {
   border-style: inset;
   border-width: 1px;
 }
+span.wr {
+    color: #c0392b;
+    font-weight: 600;
+    text-decoration: underline;
+}
