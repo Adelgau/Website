@@ -62,6 +62,12 @@ p {
   margin-inline-end: 0px;
 }
 
+span.wr {
+    color: #c0392b;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
 strong,
 b {
   font-weight: bold;
@@ -125,9 +131,4 @@ hr {
   overflow: hidden;
   border-style: inset;
   border-width: 1px;
-}
-span.wr {
-    color: #c0392b;
-    font-weight: 600;
-    text-decoration: underline;
 }
