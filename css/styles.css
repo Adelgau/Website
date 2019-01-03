@@ -62,12 +62,6 @@ p {
   margin-inline-end: 0px;
 }
 
-.wr {
-    color: #c0392b;
-    font-weight: 600;
-    text-decoration: underline;
-}
-
 strong,
 b {
   font-weight: bold;
@@ -131,4 +125,15 @@ hr {
   overflow: hidden;
   border-style: inset;
   border-width: 1px;
+}
+
+
+
+/* The actual popup (appears on the middle) */
+.popup .popuptext {
+  position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+width: 50%;
 }
