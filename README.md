@@ -1,5 +1,7 @@
 # My bettermotherfuckingwebsite 
 
+Aller n'est pas peur, clique sur le lien de ma superbe copie: <a href="https://adelinegoo.github.io/">ICI!</a>
+
 ## Table of contents
 * My bettermotherfuckingwebsite 
 
