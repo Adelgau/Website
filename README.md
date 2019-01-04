@@ -1,6 +1,6 @@
 # My bettermotherfuckingwebsite 
 
-Aller n'est pas peur, clique sur le lien de ma superbe copie: <a href="https://adelinegoo.github.io/">ICI!</a>
+Allez n'est pas peur, clique sur le lien de ma superbe copie: <a href="https://adelinegoo.github.io/">ICI!</a>
 
 ## Table of contents
 * My bettermotherfuckingwebsite 
@@ -36,7 +36,7 @@ To do
 
 
 ## Project status 
-In pregress!!!
+In progress!!!
 
 ## Sources
 This is inspired by <a href="http://motherfuckingwebsite.com/">motherfuckingwebsite.com</a>. Copy made for the Hacking project.
